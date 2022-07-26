@@ -11,6 +11,7 @@ def padZero(str, len):
 
 def invertColor(hex):
     r = 0
+
     b = 0
     g = 0
 
